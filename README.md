@@ -7,6 +7,7 @@ Sou o Vinicius Fernando Albuquerque, atualmente me qualificando pelo DevClub com
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript" />
+<br>
 
 
 E que bons ventos 🌀⛵📖 me levem para as tecnologias que me tornem o almejado Fullstack:
@@ -20,6 +21,7 @@ E que bons ventos 🌀⛵📖 me levem para as tecnologias que me tornem o almej
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="logo-mongodb" />
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="logo-sql" />
+<br>
 
 
 Ufa, e nesse navegar entre em contato, logo mais será disponibilizado meu linkedin (assim logo espero), e tudo de bom🌞
