@@ -27,6 +27,13 @@ E que bons ventos 🌀⛵📖 me levem para as tecnologias que me tornem o almej
 Ufa, e nesse navegar entre em contato, logo mais será disponibilizado meu linkedin (assim logo espero), e tudo de bom🌞
 
 
+<br>
+<br>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFerAlbuquerque)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
