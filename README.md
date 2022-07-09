@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👶
 
-Sou o Vinicius Fernando Albuquerque, atualmente me qualificando pelo DevClub como fullstack nas seguintes tecnologias:
+Sou o Vinicius Fernando Albuquerque, atualmente me qualificando pelo DevClub como Front End nas seguintes tecnologias:
 
 HTML
 CSS
