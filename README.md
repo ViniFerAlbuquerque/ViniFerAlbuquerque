@@ -26,7 +26,6 @@ E que bons ventos 🌀⛵📖 me levem para as tecnologias que me tornem o almej
 
 Ufa, entre em contato, logo mais será disponibilizado meu linkedin (assim espero), e tudo de bom🌞
 
-<a href="mailto:viniferalbuquerque@gmail.com">
 
   
 <br>
