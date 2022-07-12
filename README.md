@@ -30,8 +30,10 @@ Ufa, entre em contato, logo mais será disponibilizado meu linkedin (assim esper
   
 <br>
 <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniFerAlbuquerque&show_icons=true&theme=default)
 <br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFerAlbuquerque)](https://github.com/anuraghazra/github-readme-stats)
 
