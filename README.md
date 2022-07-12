@@ -25,11 +25,11 @@ E que bons ventos 🌀⛵📖 me levem para as tecnologias que me tornem o almej
 
 
 Ufa, entre em contato, logo mais será disponibilizado meu linkedin (assim espero), e tudo de bom🌞
-
-
+<a href="mailto:viniferalbuquerque@gmail.com">
+<img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
 <br>
 <br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniFerAlbuquerque&show_icons=true&theme=default)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFerAlbuquerque)](https://github.com/anuraghazra/github-readme-stats)
