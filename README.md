@@ -23,9 +23,13 @@ E que bons ventos 🌀⛵📖 me levem para as tecnologias que me tornem o almej
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="logo-sql" />
 <br>
 
-
-Ufa, entre em contato, logo mais será disponibilizado meu linkedin (assim espero), e tudo de bom🌞
-
+##
+Muito bem, aqui está minha rede social para contato, até mais e tudo de bom🌞
+<br>
+<br>
+<a href="https://www.linkedin.com/in/vinicius-fernando-albuquerque-69744a23b/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+##
 
   
 <br>
