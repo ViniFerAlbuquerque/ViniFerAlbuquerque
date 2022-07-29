@@ -29,7 +29,7 @@ E que bons ventos 🌀⛵📖 me levem para as tecnologias que me tornem o almej
 Muito bem, aqui está minha rede social para contato, até mais e tudo de bom🌞
 <br>
 <br>
-<a href="https://www.linkedin.com/in/vinicius-fernando-albuquerque-69744a23b/"target="_blank">
+<a href="https://www.linkedin.com/in/vinicius-fernando-albuquerque-69744a23b/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ##
 
