@@ -37,12 +37,11 @@ Muito bem, aqui está minha rede social para contato, até mais e tudo de bom�
 <br>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniFerAlbuquerque&show_icons=true&theme=default)
+<br>
 
-<div align="center">
-  <a href="https://github.com/ViniFerAlbuquerque">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniFerAlbuquerque&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFerAlbuquerque&layout=compact&langs_count=7&theme=default"/>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFerAlbuquerque)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
