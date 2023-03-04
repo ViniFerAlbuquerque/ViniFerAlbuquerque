@@ -26,7 +26,7 @@ E que bons ventos 🌀⛵📖 me levem para as tecnologias que me tornem o almej
 <br>
 
 ##
-Muito bem, aqui está minha rede social para contato, até mais e tudo de bom🌞
+Muito bem, aqui está minha rede social para contato, até mais e tudo de bom!🌞
 <br>
 <br>
 <a href="https://www.linkedin.com/in/vinicius-fernando-albuquerque-69744a23b/" target="_blank">
