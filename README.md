@@ -1,4 +1,4 @@
-### Hi there❕ 👶📚📝💻🎯
+### Hi there❕ 📚📝💻🎯
 
 Sou o Vinicius Fernando Albuquerque, em transição de carreira e atualmente me qualificando pelo DevClub como Front End nas seguintes tecnologias:
 
