@@ -17,7 +17,7 @@ Sou o Vinicius Fernando Albuquerque, atualmente me qualificando pelo DevClub nas
 
 
 
-E que bons ventos 🌀⛵📖 me levem para as tecnologias que me tornem o almejado Fullstack:
+E que bons ventos 🌀⛵📖 e muito esforço me levem para as seguintes tecnologias:
 
 
 
