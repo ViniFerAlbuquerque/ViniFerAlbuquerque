@@ -1,6 +1,6 @@
 ### Hi there❕ 📚📝💻🎯😉
 
-Sou o Vinicius Fernando Albuquerque, aumentando o meu conhecimento através do DevClub nas seguintes tecnologias:
+-Sou o Vinicius Fernando Albuquerque, aumentando o meu conhecimento através do DevClub nas seguintes tecnologias:
 
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
@@ -17,7 +17,7 @@ Sou o Vinicius Fernando Albuquerque, aumentando o meu conhecimento através do D
 
 
 
-E que bons ventos 🌀⛵📖 e muito esforço me leve para:
+-E que bons ventos 🌀⛵📖 e muito esforço me leve para:
 
 
 
