@@ -31,7 +31,7 @@
 <br>
 
 ##
-Aqui está minha rede social para contato, obrigado, até mais e tudo de bom!🌞
+*Aqui está minha rede social para contato, obrigado, até mais e tudo de bom!🌞
 <br>
 <br>
 <a href="https://www.linkedin.com/in/vinicius-fernando-albuquerque-69744a23b/" target="_blank">
