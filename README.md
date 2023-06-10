@@ -17,7 +17,7 @@ Sou o Vinicius Fernando Albuquerque, aumentando o meu conhecimento através do D
 
 
 
-☺ E que bons ventos 🌀⛵📖 e muito esforço me leve para:
+☺ E que bons ventos 🌀⛵📖 e muito esforço👨🏽‍💻 me leve para:
 
 
 
