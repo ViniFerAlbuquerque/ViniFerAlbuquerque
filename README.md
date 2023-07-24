@@ -18,7 +18,7 @@
 
 
 
-☺ E que bons ventos 🌀⛵📖 e muito esforço👨🏽‍💻 me leve para:
+☺ E que bons ventos 🌀⛵📖<br>E muito esforço👨🏽‍💻 me leve para:
 
 
 
