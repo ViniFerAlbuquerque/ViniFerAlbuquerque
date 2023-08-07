@@ -1,4 +1,4 @@
-### Hi there❕ 📚📝💻🎯😉
+### 😉Hi there❕ 📚📝💻🎯
 
 ✔Sou o Vinicius Fernando Albuquerque!<br>
 ✔Estou aumentando o meu conhecimento através do DevClub nas seguintes tecnologias👀:
