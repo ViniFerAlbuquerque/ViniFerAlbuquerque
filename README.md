@@ -20,7 +20,7 @@
 
 
 
-<p>😏E que bons ventos! 🌀⛵<br>📖E muito esforço
+<p>😏E que bons ventos! 🌀⛵<br>📖E muito esforço <br>
    👨🏽‍💻 me levem para:</p>
 
 
