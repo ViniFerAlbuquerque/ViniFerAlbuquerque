@@ -38,7 +38,7 @@
 👇Aqui está minha rede social para contato🙋🏽‍♂️:<br> 🤝🏽 Obrigado!<br> 🌞Até mais e tudo de bom!<br>👍
 <br>
 <br>
-<a href="https://www.linkedin.com/in/vinicius-fernando-albuquerque-69744a23b/"target="_blank">
+<a href="https://www.linkedin.com/in/vinicius-fernando-albuquerque-69744a23b/ " target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ##
 
