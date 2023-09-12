@@ -1,6 +1,6 @@
 ### 😉Hi there❕ 📚
 
-🎯 <br>📝<br>💻
+🎯<br>📝<br>💻
 
 
 ✔Sou o Vinicius Fernando Albuquerque! <br>
