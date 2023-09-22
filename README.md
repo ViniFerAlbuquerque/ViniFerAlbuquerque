@@ -1,6 +1,6 @@
 ### 😉Hi there❕ 📚
 
-🎯<br>📝<br>💻
+📝<br>💻
 
 
 ✔Sou o Vinicius Fernando Albuquerque! <br>
@@ -47,7 +47,7 @@
 ##
 
   
-<br>
+<br>🎯
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniFerAlbuquerque&show_icons=true&theme=default)
