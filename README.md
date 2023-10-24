@@ -5,7 +5,6 @@
 
 ✔Sou o Vinicius Fernando Albuquerque! <br>
 ✔Estou aumentando o meu conhecimento através do DevClub nas seguintes tecnologias:
-<br>
 👀
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
