@@ -21,8 +21,8 @@
 <br>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="logo-mongodb" />
 <div/>
-<br>
-<p>Refeência de imagens:</p> 
+<br> :high_brightness:
+🔆<p>Referência de imagens:</p>
 <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
 <br>
 <br>
