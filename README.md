@@ -22,8 +22,10 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="logo-mongodb" />
 <div/>
 <br>
-
-
+<p>Refeência de imagens:</p> 
+<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
+<br>
+<br>
 
 <p>😏E que bons ventos! 🌀⛵<br>📖E muito esforço! <br>
    👨🏽‍💻 me levem para:</p>
@@ -34,7 +36,7 @@
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react-native" /> <br>
 
-<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
+
 
 
 
