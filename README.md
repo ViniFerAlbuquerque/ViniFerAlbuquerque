@@ -26,7 +26,7 @@
 <div/>
 <br> :high_brightness:
 🔆<p>Referência de imagens:</p>
-<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="logo-pinterest" />
 <br>
 <br>
 
@@ -38,6 +38,9 @@
 
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react-native" /> <br>
+
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="logo-jquery" /> <br>
+
 
 
 
